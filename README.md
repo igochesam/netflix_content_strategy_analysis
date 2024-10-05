@@ -44,15 +44,21 @@ Analysis of trends in viewership by content type (e.g., movies, series).
 
 ## Viewership Across Seasons
 
-Summary of viewership based on different seasons of the year.
+![image](https://github.com/user-attachments/assets/8941fcca-ea54-4def-be19-5836a542646d)
+
+The graph indicates that viewership hours peak significantly in the Fall season, with over 80 billion hours viewed, while Winter, Spring, and Summer each have relatively stable and similar viewership around the 20 billion mark. This suggests that Netflix experiences the highest audience engagement during Autumn.
 
 ## Content Releases and Viewership Hours Across Months
 
-Analysis of content releases and corresponding viewership hours.
+![image](https://github.com/user-attachments/assets/9254c6fe-dc04-44c1-ac25-3d56d5cdc4c6)
+
+While the number of releases is relatively steady throughout the year, viewership hours experience a sharp increase in June and a significant rise in December, despite a stable release count. This indicates that viewership is not solely dependent on the number of releases but influenced by the timing and appeal of specific content during these months.
 
 ## Content Releases and Viewership Hours Across Days of the Week
 
-Analysis of content releases and viewership hours on different days of the week.
+![image](https://github.com/user-attachments/assets/3492d706-c38a-48dd-9be5-da4bb06cb534)
+
+The graph highlights that most content releases occur on Fridays, with viewership hours also peaking significantly on that day. This suggests that Netflix strategically releases content toward the weekend to maximize audience engagement. The viewership drops sharply on Saturdays and Sundays, despite some releases, indicating that the audience tends to consume newly released content right at the start of the weekend, which makes Friday the most impactful day for both releases and viewership.
 
 ## Viewership on Special Days
 
