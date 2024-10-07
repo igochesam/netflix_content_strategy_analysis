@@ -1,17 +1,11 @@
 # Netflix Content Strategy Analysis
 
-## Introduction
-
-A brief description of your project and what it aims to achieve.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Viewership by Content](#viewership-by-content)
 - [Viewership by Language Group](#viewership-by-language-group)
 - [Viewership by Month](#viewership-by-month)
-- [Most Successful Content](#most-successful-content)
-- [Viewership Trends by Content Type](#viewership-trends-by-content-type)
 - [Viewership Across Seasons](#viewership-across-seasons)
 - [Content Releases and Viewership Hours Across Months](#content-releases-and-viewership-hours-across-months)
 - [Content Releases and Viewership Hours Across Days of the Week](#content-releases-and-viewership-hours-across-days-of-the-week)
@@ -20,27 +14,25 @@ A brief description of your project and what it aims to achieve.
 
 ## Introduction
 
-A more detailed introduction that explains the objectives and significance of the analysis.
+This is an analysis of Netflix's Content Strategy. The dataset was obtained from [here](https://statso.io/netflix-content-strategy-case-study/). This analysis was done to gain insight into how Netflix content is created, released, distributed, and consumed to achieve specific goals, such as maximizing audience engagement, viewership, brand reach, or revenue. The dataset contains 6 columns and 24812 rows. After a brief overview of the dataset, it was discovered that only the 'Release Date' column contained some missing values, which account for about a third of the entire contents of that column. However, these missing values were not treated in this analysis as they did not directly affect the analysis.
 
 ## Viewership by Content
 
-Overview of viewership statistics based on content.
+![image](https://github.com/user-attachments/assets/a8f1ae02-77cb-4733-9f85-35cc66fa7f1c)
+
+The visualization indicates that shows dominate the total viewership hours on Netflix in 2023 compared to movies. This suggests that Netflix’s content strategy leans heavily toward shows, as they tend to attract more watch hours overall.
 
 ## Viewership by Language Group
 
-Analysis of viewership segmented by language groups.
+![image](https://github.com/user-attachments/assets/c32eaf90-ace0-4647-80f9-94a848c8a114)
+
+The visualization reveals that English-language content significantly dominates Netflix’s viewership, followed by other languages like Korean. It indicates that Netflix’s primary audience is consuming English content, although non-English shows and movies also have a considerable viewership share, which shows a diverse content strategy.
 
 ## Viewership by Month
 
-Summary of viewership trends across different months.
+![image](https://github.com/user-attachments/assets/746d02a7-3978-4ef7-b7f6-abffde96c1ac)
 
-## Most Successful Content
-
-Identification of the titles with the highest viewership.
-
-## Viewership Trends by Content Type
-
-Analysis of trends in viewership by content type (e.g., movies, series).
+The graph compares viewership trends between movies and shows throughout 2023. It shows that shows consistently have higher viewership than movies, peaking in December. Movies have more fluctuating viewership, with notable increases in June and October. This indicates that Netflix’s audience engages more with shows across the year, while movie viewership experiences occasional spikes, possibly linked to specific releases or events.
 
 ## Viewership Across Seasons
 
@@ -67,7 +59,7 @@ The graph highlights that most content releases occur on Fridays, with viewershi
 The data reveals that Netflix has strategically released content around key holidays and events. Some of the significant releases include:
 
 1. New Year’s Period: Kaleidoscope: Limited Series was released close to New Year’s Day, resulting in high viewership.
-2. Valentine’s Day: Perfect Match: Season 1 was released on February 14th, which align with a romantic theme and capitalize on the holiday’s sentiment.
+2. Valentine’s Day: Perfect Match: Season 1 was released on February 14th, which aligns with a romantic theme and capitalizes on the holiday’s sentiment.
 
 ## Conclusion
 
