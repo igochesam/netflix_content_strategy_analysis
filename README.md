@@ -72,20 +72,6 @@ Netflix's content strategy maximises viewership through targeted release timing 
 - **Matplotlib**
 - **Jupyter Notebook**
 
-## Data
-
-- **Source**: Describe where the data comes from.
-- **Format**: Describe the data format (CSV, Excel, etc.).
-- **Columns**: List the important columns and their meanings.
-
-## Analysis
-
-Outline the key analyses performed in the project:
-
-- Analysis 1: Description of the analysis.
-- Analysis 2: Description of the analysis.
-- Analysis 3: Description of the analysis.
-
 ## Contributing
 
 If you would like to contribute to the project, follow these steps:
